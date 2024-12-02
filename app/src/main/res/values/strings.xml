@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Churrascômetro</string>
+    <string name="adult">Número de adultos</string>
+    <string name="child">Número de crianças</string>
+    <string name="duration">Duração do churrasco (Em horas)</string>
+    <string name="calc">Calcular</string>
+    <string name="new_calc">Fazer outro cálculo</string>
+</resources>
